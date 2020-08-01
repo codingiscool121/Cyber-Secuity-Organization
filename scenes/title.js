@@ -11,14 +11,14 @@ class TitleScreen extends Phaser.Scene {
         this.scene.run("PreloadAssets");
 
         this.add.image(config.width/2, config.height/2, "title-bg").setScale(1.25);
-        this.titleImg = this.add.image(config.width/2, -80, "title-img").setScale(1.25);
-        this.titleText = this.add.image(config.width/2, config.height/2 + 80, "title-enter").setScale(1.25);        
+        this.titleImg = this.add.image(config.width/2, -80, "title-img").setScale(0.2);
+        this.titleText = this.add.image(config.width/2, config.height/1.92 + 90, "title-enter").setScale(1.25);        
         this.titleInstr = this.add.image(config.width/2, -80 , "title-instr").setScale(1.25).setVisible(false);
 
         //Animation to bring title Image.
         this.tweens.add({
             targets: this.titleImg,
-            y: config.height/2 - 20,
+            y: config.height/1.55 - 40,
             ease: "Power1",
             duration: 1200,
             callbackScope: this,

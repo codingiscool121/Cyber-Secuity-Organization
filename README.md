@@ -11,6 +11,8 @@ ___
    
     * Things you have to know to play the game:
     
+    * Ignore the second instruction at the beginning.
+    
     
     * 1) Use the left, right, up and down arrow keys to move around the map.
 

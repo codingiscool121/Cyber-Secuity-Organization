@@ -8,7 +8,10 @@ ___
    
    
    /**
+   
     * Things you have to know to play the game:
+    
+    
     * 1) Use the left, right, up and down arrow keys to move around the map.
 
     * 2) The books that you see around the map are meant to provide you with information, so you can complete the activities afterward. To see what is in them, simply touch them with your player.

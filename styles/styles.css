@@ -1,0 +1,62 @@
+html, body {
+    margin: 0; 
+    padding: 0;
+}
+div.gameModule {
+    display: none;
+    width: 800px;
+    height: 600px;
+}
+
+.main {
+    margin-bottom: 5px;
+}
+
+button {
+    font-size: 18px;
+    background-color: gray;
+    color: #423b39;
+    border: hidden;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: #85786a;
+    color: whitesmoke
+}
+
+.butn{
+    font-size:15px;
+    padding: 7px;
+    background-color: burlywood;
+    color: #85786a;
+    border:none;
+    text-align:center;
+    border-radius:8px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    transition-duration: 0.4s;
+}
+.butn:hover{
+    background-color: whitesmoke;
+    color: #85786a;
+}
+
+.container {
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: 145px;
+    margin-right: 145px;
+    padding: 3px 0px 25px;
+    background-color: #423b39;
+    color: #85786a;
+    border: hidden;
+    border-radius: 12px;
+}
+
+.float-right {
+    color: #85786a;
+    top: 0;
+    right: 0;
+    font-size: 15px;
+}

@@ -9,6 +9,10 @@ ___
    
    /**
    
+   Story: 
+       You applied for a job at a very big technology company, and got in, but they want to do one final check just to see if you are good enough for the job. So, they want to give you a test on your knowledge of cybersecurity. To prepare, they tell you to play this game. Below, you will find how to play this game. Hope you find this game fun!
+
+   
     * Things you have to know to play the game:
     
     * Ignore the second instruction at the beginning.

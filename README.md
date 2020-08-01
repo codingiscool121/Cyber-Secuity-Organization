@@ -3,7 +3,6 @@
 
 ___
 
-   * Soham Shah Productions LLC
    
    
    

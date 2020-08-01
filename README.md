@@ -3,31 +3,6 @@
 
 ___
 
-   * Example:
-    ```html
-    <head>
-      <!-- MY SCRIPTS -->
-      <script src="scenes/boot.js"></script>
-      ...
-      <script defer src="scripts/contentSwitcher.js"></script>
-      <script defer src="scripts/other.js"></script>
-
-
-      <!-- YOUR SCRIPTS -->
-      <script src="scripts/module1.js"></script>
-      ...
-
-    </head>
-    <body>
-      <!-- MY DIV -->
-      <div id="gameContainer"></div>
-
-
-      <!-- YOUR DIVS-->
-      <div class="gameModule" id="module0"></div>
-      ...
-    </body>
-    ```
    * Soham Shah Productions LLC
    
    

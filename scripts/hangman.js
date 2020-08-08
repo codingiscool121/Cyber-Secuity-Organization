@@ -9,7 +9,7 @@ var malwares = [
     "adware",
     "worm",
     "rootkit",
-    "bots",
+    "bots"
    
     
 ];
@@ -24,7 +24,7 @@ var hints = [
     "Automatically displays or downloads undesired advertising material when a user is online.",
     "Replicates itself in order to spread harm to other computers typically using a computer network.",
     "Set of tools that enable an unauthorized user to gain control of a computer system undetected.",
-    "Can be used maliciously in many ways, including in DOS attacks.",
+    "Can be used maliciously in many ways, including in DOS attacks."
     
 ];
 

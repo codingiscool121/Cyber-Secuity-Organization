@@ -7,9 +7,9 @@ class DialogScene extends Phaser.Scene {
 
         //Next phrases to display (after user presses "Space" bar)
         //Will be refactored later; for now jsut checking that the idea works.
-        this.dialogPhrases = ["Hello traveler, I will teach you", "some decryption techniques!", " ", '(Press "Space" To Continue)'];
-        this.dialogPhrases2 = ["Another dialog,", "Some words, Just checking!" ," ", '(Press "Space" To Continue)'];
-        this.dialogPhrases3 = ["Another check", " ", " ", '(Press "Space" To Exit)'];
+        this.dialogPhrases = ["Hello traveler, in the near future,", "I will teach you some decryption techniques."," ", '(Press "Space" To Continue)'];
+        this.dialogPhrases2 = ["But for now,", "I hope you are enjoying the game!" ," ", '(Press "Space" To Continue)'];
+        this.dialogPhrases3 = ["I will see you again soon!", " ", " ", '(Press "Space" To Exit)'];
     }
 
     create() {

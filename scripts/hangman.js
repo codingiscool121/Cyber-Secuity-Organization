@@ -10,6 +10,7 @@ var malwares = [
     "worm",
     "rootkit",
     "bots"
+    "malvertising"
 ];
 
 //Set of hints that correspond to malwares
@@ -23,6 +24,7 @@ var hints = [
     "Replicates itself in order to spread harm to other computers typically using a computer network.",
     "Set of tools that enable an unauthorized user to gain control of a computer system undetected.",
     "Can be used maliciously in many ways, including in DOS attacks."
+    "Extra Hard: Use of online advertising to spread malware. This generally tricks the user into clicking on a legitmate looking ad. Can also come in the form of free virus protection softwares."
 ];
 
 /*   var correctFx = new Audio('assets/audio/correct.mp3');

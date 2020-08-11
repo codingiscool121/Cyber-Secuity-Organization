@@ -1,5 +1,4 @@
 ## Cyber Security Organization
-## By Soham Shah
 
 ___
 
